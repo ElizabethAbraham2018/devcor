@@ -1,10 +1,2 @@
 line1 added via VSCode
-line2 added via central repo editor
-<<<<<<< HEAD
-line3 added via central repo editor
-line 4 added via VSCode editor to verify hash generation
-line5 added using newFeatures branch on VSCode editor
-line6 being added for stash demo
-line7 added on newFeatures to demo conflict
-=======
->>>>>>> 9c4c749 (Update file1.txt)
+
