@@ -4,3 +4,4 @@ line3 added via central repo editor
 line 4 added via VSCode editor to verify hash generation
 line5 added using newFeatures branch on VSCode editor
 line6 being added for stash demo
+line7 added on newFeatures to demo conflict
